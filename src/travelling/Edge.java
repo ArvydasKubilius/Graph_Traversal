@@ -1,4 +1,4 @@
-package student_solution;
+package travelling;
 
 import graph_entities.IEdge;
 import graph_entities.IVertex;

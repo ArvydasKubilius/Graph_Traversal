@@ -1,4 +1,4 @@
-package student_solution;
+package travelling;
 
 import java.util.ArrayList;
 import java.util.Collection;
